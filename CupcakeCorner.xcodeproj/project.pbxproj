@@ -14,6 +14,7 @@
 		2E94E05A2B618FCB00E41552 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E94E0592B618FCB00E41552 /* Order.swift */; };
 		2E94E05C2B619E0700E41552 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E94E05B2B619E0700E41552 /* AddressView.swift */; };
 		2E94E05E2B61C20E00E41552 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E94E05D2B61C20E00E41552 /* CheckoutView.swift */; };
+		2E94E0612B62E3D800E41552 /* String-EmptyChecking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E94E0602B62E3D800E41552 /* String-EmptyChecking.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		2E94E0592B618FCB00E41552 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		2E94E05B2B619E0700E41552 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 		2E94E05D2B61C20E00E41552 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		2E94E0602B62E3D800E41552 /* String-EmptyChecking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String-EmptyChecking.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				2E94E04B2B6061A600E41552 /* CupcakeCornerApp.swift */,
 				2E94E0592B618FCB00E41552 /* Order.swift */,
+				2E94E0602B62E3D800E41552 /* String-EmptyChecking.swift */,
 				2E94E05D2B61C20E00E41552 /* CheckoutView.swift */,
 				2E94E04D2B6061A600E41552 /* ContentView.swift */,
 				2E94E05B2B619E0700E41552 /* AddressView.swift */,
@@ -150,6 +153,7 @@
 				2E94E05C2B619E0700E41552 /* AddressView.swift in Sources */,
 				2E94E05E2B61C20E00E41552 /* CheckoutView.swift in Sources */,
 				2E94E04E2B6061A600E41552 /* ContentView.swift in Sources */,
+				2E94E0612B62E3D800E41552 /* String-EmptyChecking.swift in Sources */,
 				2E94E04C2B6061A600E41552 /* CupcakeCornerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
